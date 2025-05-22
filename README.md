@@ -1,2 +1,2 @@
-# friendlink
-we have completed most of the backend part of the project. The JSON data structure for users is working properly, and we can successfully add new users, update data, and store everything in the JSON file. 
+# friendlinksuggestions(DAA project)
+we using main branch in github, all code is there. big commits was bfs logic, jaccard similarity, and flask backend. we push code after every feature, no pull request used. repo have latest working project.
