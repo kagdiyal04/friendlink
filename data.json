@@ -1,0 +1,142 @@
+{
+  "u1": {
+    "name": "Priyanshu",
+    "age": 18,
+    "location": "dehradun",
+    "interests": ["boxing"],
+    "friends": []
+  },
+  "u2": {
+    "name": "Ayush",
+    "age": 18,
+    "location": "dehradun",
+    "interests": ["football"],
+    "friends": ["u1"]
+  },
+  "u3": {
+    "name": "Pranjal",
+    "age": 18,
+    "location": "haldwani",
+    "interests": ["reading"],
+    "friends": ["u1", "u2"]
+  },
+  "u4": {
+    "name": "Sachin",
+    "age": 18,
+    "location": "haridwar",
+    "interests": ["coding"],
+    "friends": ["u3"]
+  },
+  "u5": {
+    "name": "Neha",
+    "age": 19,
+    "location": "dehradun",
+    "interests": ["painting", "yoga"],
+    "friends": ["u2", "u3"]
+  },
+  "u6": {
+    "name": "Rahul",
+    "age": 20,
+    "location": "haridwar",
+    "interests": ["football", "coding"],
+    "friends": ["u4"]
+  },
+  "u7": {
+    "name": "Anita",
+    "age": 18,
+    "location": "haldwani",
+    "interests": ["dancing"],
+    "friends": ["u3", "u5"]
+  },
+  "u8": {
+    "name": "Karan",
+    "age": 19,
+    "location": "dehradun",
+    "interests": ["boxing", "football"],
+    "friends": ["u1", "u2"]
+  },
+  "u9": {
+    "name": "Riya",
+    "age": 20,
+    "location": "haridwar",
+    "interests": ["reading", "yoga"],
+    "friends": ["u6", "u4"]
+  },
+  "u10": {
+    "name": "Vikram",
+    "age": 21,
+    "location": "haldwani",
+    "interests": ["coding", "chess"],
+    "friends": ["u3", "u7"]
+  },
+  "u11": {
+    "name": "Simran",
+    "age": 18,
+    "location": "dehradun",
+    "interests": ["painting", "reading"],
+    "friends": ["u5", "u8"]
+  },
+  "u12": {
+    "name": "Amit",
+    "age": 19,
+    "location": "haridwar",
+    "interests": ["football", "chess"],
+    "friends": ["u6", "u9"]
+  },
+  "u13": {
+    "name": "Pooja",
+    "age": 20,
+    "location": "dehradun",
+    "interests": ["dancing", "yoga"],
+    "friends": ["u11", "u5"]
+  },
+  "u14": {
+    "name": "Sahil",
+    "age": 21,
+    "location": "haldwani",
+    "interests": ["boxing", "coding"],
+    "friends": ["u10"]
+  },
+  "u15": {
+    "name": "Deepa",
+    "age": 18,
+    "location": "haridwar",
+    "interests": ["painting"],
+    "friends": ["u9", "u12"]
+  },
+  "u16": {
+    "name": "Manish",
+    "age": 19,
+    "location": "dehradun",
+    "interests": ["chess", "football"],
+    "friends": ["u8", "u2"]
+  },
+  "u17": {
+    "name": "Neetu",
+    "age": 20,
+    "location": "haldwani",
+    "interests": ["reading", "yoga"],
+    "friends": ["u7", "u10"]
+  },
+  "u18": {
+    "name": "Rohit",
+    "age": 21,
+    "location": "dehradun",
+    "interests": ["boxing"],
+    "friends": ["u1", "u16"]
+  },
+  "u19": {
+    "name": "Sonia",
+    "age": 18,
+    "location": "haridwar",
+    "interests": ["dancing", "painting"],
+    "friends": ["u15", "u9"]
+  },
+  "u20": {
+    "name": "Tarun",
+    "age": 19,
+    "location": "dehradun",
+    "interests": ["coding", "football"],
+    "friends": ["u2", "u6"]
+  }
+}
